@@ -1,0 +1,12 @@
+/home/francisco/workspacer/dotnet/calculadora/calculos/bin/Debug/net6.0/calculos.deps.json
+/home/francisco/workspacer/dotnet/calculadora/calculos/bin/Debug/net6.0/calculos.dll
+/home/francisco/workspacer/dotnet/calculadora/calculos/bin/Debug/net6.0/ref/calculos.dll
+/home/francisco/workspacer/dotnet/calculadora/calculos/bin/Debug/net6.0/calculos.pdb
+/home/francisco/workspacer/dotnet/calculadora/calculos/obj/Debug/net6.0/calculos.csproj.AssemblyReference.cache
+/home/francisco/workspacer/dotnet/calculadora/calculos/obj/Debug/net6.0/calculos.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/workspacer/dotnet/calculadora/calculos/obj/Debug/net6.0/calculos.AssemblyInfoInputs.cache
+/home/francisco/workspacer/dotnet/calculadora/calculos/obj/Debug/net6.0/calculos.AssemblyInfo.cs
+/home/francisco/workspacer/dotnet/calculadora/calculos/obj/Debug/net6.0/calculos.csproj.CoreCompileInputs.cache
+/home/francisco/workspacer/dotnet/calculadora/calculos/obj/Debug/net6.0/calculos.dll
+/home/francisco/workspacer/dotnet/calculadora/calculos/obj/Debug/net6.0/ref/calculos.dll
+/home/francisco/workspacer/dotnet/calculadora/calculos/obj/Debug/net6.0/calculos.pdb

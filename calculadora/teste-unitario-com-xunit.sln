@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculos", "calculos\calculos.csproj", "{AF64DA65-C659-4802-A6E2-A804261DF343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculos.tests", "calculos.tests\calculos.tests.csproj", "{57AA0566-A51C-4D16-AB24-A1FE0F458CA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF64DA65-C659-4802-A6E2-A804261DF343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF64DA65-C659-4802-A6E2-A804261DF343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF64DA65-C659-4802-A6E2-A804261DF343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF64DA65-C659-4802-A6E2-A804261DF343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57AA0566-A51C-4D16-AB24-A1FE0F458CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AA0566-A51C-4D16-AB24-A1FE0F458CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AA0566-A51C-4D16-AB24-A1FE0F458CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AA0566-A51C-4D16-AB24-A1FE0F458CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
